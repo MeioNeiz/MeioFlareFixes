@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: MeioFlareFixes
+## Notes: Fixes a FlareUI bug: after using its Meter tab, right-clicks on the bank, vendors and quest windows opened the chat tab menu.
+## Category: Meio
+## IconTexture: Interface\Icons\INV_Misc_Wrench_01
+## Version: 1.0.0
+## Author: MeioNeiz
+## X-Website: https://github.com/MeioNeiz/MeioFlareFixes
+## X-License: MIT
+## Dependencies: FlareUI
+
+MeioFlareFixes.lua

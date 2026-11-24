@@ -1,0 +1,19 @@
+{
+  "title": "Meio FlareFixes",
+  "summary": "Fixes a FlareUI bug: right-clicks on the bank, vendors and quest windows opened the chat tab menu. Needs FlareUI.",
+  "cfCategory": "Chat & Communication",
+  "cfExtra": [
+    "Miscellaneous"
+  ],
+  "wagoCategories": [
+    "Chat & Communication",
+    "Miscellaneous"
+  ],
+  "gallery": [
+    {
+      "file": "before-after.png",
+      "title": "Before and after",
+      "description": "Right-clicking a vendor item over the chat tabs: the chat tab menu, then the item as it should be"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "title": "Meio FlareFixes",
-  "summary": "Fixes a FlareUI bug: right-clicks on the bank, vendors and quest windows opened the chat tab menu. Needs FlareUI.",
+  "title": "Meio Flare Fixes",
+  "summary": "Fixes FlareUI chat tabs eating clicks on bank, vendor and quest windows.",
   "cfCategory": "Chat & Communication",
   "cfExtra": [
     "Miscellaneous"

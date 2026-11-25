@@ -1,9 +1,11 @@
-# Meio FlareFixes
+# Meio Flare Fixes
 
 Fixes a FlareUI bug: right-clicks on the bank, a vendor or a quest window opened the chat tab menu.
 
+For WoW Forever.
+
 ![A vendor over the chat tabs: before, right-clicking Refreshing Spring Water opens the chat tab
-menu; with Meio FlareFixes, the click reaches the item and its tooltip shows](docs/before-after.png)
+menu; with Meio Flare Fixes, the click reaches the item and its tooltip shows](docs/before-after.png)
 
 ## What it does
 
@@ -15,7 +17,7 @@ vendors and quests. Clicks there went to the chat tab instead of the window.
 - Chat tabs work as before
 - During a fight it waits and catches up when the fight ends
 
-No settings, no slash commands. Once FlareUI fixes this itself, Meio FlareFixes does nothing.
+No settings, no slash commands. Once FlareUI fixes this itself, Meio Flare Fixes does nothing.
 
 ## Install
 
@@ -28,7 +30,7 @@ Bugs and ideas: [GitHub issues](https://github.com/MeioNeiz/MeioFlareFixes/issue
 
 ## More Meio addons
 
-[Meio TrainerCompare](https://www.curseforge.com/wow/addons/trainercompare) | [Meio Next Stop](https://www.curseforge.com/wow/addons/leavebutton) | [Meio AutoRank](https://www.curseforge.com/wow/addons/meio-autorank) | [Meio MeterHover](https://www.curseforge.com/wow/addons/meterhover) | [Meio Map](https://addons.wago.io/addons/meiomap) | [Meio Alts](https://addons.wago.io/addons/meioalts) | [Meio DPS](https://addons.wago.io/addons/meiodps) | [Meio Plates](https://addons.wago.io/addons/meioplates) | [Meio Hub](https://addons.wago.io/addons/meiohub) | [Meio Pets](https://addons.wago.io/addons/meiopets) | [Meio Stats](https://addons.wago.io/addons/meiostats) | [Meio Bags](https://addons.wago.io/addons/meiobags) | [Meio Fixes](https://addons.wago.io/addons/meiofixes) | [Meio Flight Times](https://addons.wago.io/addons/meioflighttimes)
+[Meio Trainer Compare](https://www.curseforge.com/wow/addons/trainercompare) | [Meio Next Stop](https://www.curseforge.com/wow/addons/leavebutton) | [Meio Auto Rank](https://www.curseforge.com/wow/addons/meio-autorank) | [Meio Meter Hover](https://www.curseforge.com/wow/addons/meterhover) | [Meio Map](https://addons.wago.io/addons/meiomap) | [Meio Alts](https://addons.wago.io/addons/meioalts) | [Meio DPS](https://addons.wago.io/addons/meiodps) | [Meio Plates](https://addons.wago.io/addons/meioplates) | [Meio Hub](https://addons.wago.io/addons/meiohub) | [Meio Pets](https://addons.wago.io/addons/meiopets) | [Meio Stats](https://addons.wago.io/addons/meiostats) | [Meio Bags](https://addons.wago.io/addons/meiobags) | [Meio Fixes](https://addons.wago.io/addons/meiofixes) | [Meio Flight Times](https://addons.wago.io/addons/meioflighttimes) | [Meio Tooltip Fold](https://addons.wago.io/addons/meiotooltipfold) | [Meio Auto Run Turn](https://addons.wago.io/addons/meioautorunturn) | [Meio Mail](https://addons.wago.io/addons/meiomail) | [Meio QoL](https://addons.wago.io/addons/meioqol) | [Meio TSM Browse](https://addons.wago.io/addons/tsmbrowse)
 
 ## Licence
 

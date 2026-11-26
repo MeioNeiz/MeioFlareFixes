@@ -1,6 +1,7 @@
 # Meio Flare Fixes
 
-Fixes a FlareUI bug: right-clicks on the bank, a vendor or a quest window opened the chat tab menu.
+For FlareUI: right-clicks on the bank, a vendor or a quest window open what they should,
+not the chat tab menu.
 
 For WoW Forever.
 

@@ -4,6 +4,10 @@
 -- to LOW, so they sit over MEDIUM windows (bank, merchant, quest) and take their clicks:
 -- right-click there opened the chat tab menu. Keep them in the bar's strata. They are
 -- protected, so only out of combat; leaving combat catches up.
+local chat = FlareUI and FlareUI.Chat
+-- FlareUI 7.0.17+ moves the boxes itself, one strata over the bar: ours would pull them back
+if not chat or chat.SyncTabHits then return end
+
 local pending = false
 
 local function SyncHits()
@@ -25,8 +29,7 @@ local function SyncHits()
     end
 end
 
-local chat = FlareUI and FlareUI.Chat
-if chat and chat.ApplyHeaderStrata then
+if chat.ApplyHeaderStrata then
     hooksecurefunc(chat, "ApplyHeaderStrata", SyncHits)
 end
 

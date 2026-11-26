@@ -18,7 +18,10 @@ vendors and quests. Clicks there went to the chat tab instead of the window.
 - Chat tabs work as before
 - During a fight it waits and catches up when the fight ends
 
-No settings, no slash commands. Once FlareUI fixes this itself, Meio Flare Fixes does nothing.
+No settings, no slash commands.
+
+FlareUI 7.0.17 fixed this itself: on 7.0.17 or newer Meio Flare Fixes does nothing, so you
+can disable it. Older FlareUI still needs it.
 
 ## Install
 
